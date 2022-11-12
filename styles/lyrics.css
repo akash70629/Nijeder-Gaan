@@ -1,0 +1,61 @@
+.content{
+    margin: 13px;
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    align-items: center;
+    border-radius: 10px;
+}
+
+
+.songs{
+    margin: 13px;
+}
+
+
+.fb img{
+width: 180px;
+height: 40px;
+}
+
+
+
+
+h4{
+    font-style: italic;
+    color: rgb(128, 44, 207);
+    font-weight: 500;
+    padding-top: 6px;
+}
+
+
+.bottom{
+    /* position: absolute; */
+    background-color: rgb(26, 36, 33);
+    height: 100px;
+    width: 100%;
+    /* bottom: -910px; */
+    text-align: center;
+    
+}
+
+.bottom p{
+  margin-left: auto;
+  margin-right: auto;
+  color: aliceblue;
+}
+
+
+.bottom h4 {
+    color: aliceblue;
+}
+
+
+.fa-youtube{
+    color: red;
+    padding: 5px;
+}
