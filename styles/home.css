@@ -1,11 +1,17 @@
 .content{
-    margin: 13px;
+    margin: 13px;  
 }
 
 img{
     height: 280px;
-    width: 320px;
+    width: 310px;  /* 320*/
     border-radius: 10px;
+
+/* new added */
+    position: relative;
+    right: -13px;
+    top: 12px;
+    
 }
 
 h4{
@@ -21,7 +27,7 @@ h4{
     background-color: rgb(26, 36, 33);
     height: 100px;
     width: 100%;
-    bottom: -250px;
+    bottom: -153px;    /* -250 */
     text-align: center;
     
 }
@@ -41,3 +47,17 @@ h4{
     color: red;
     padding: 5px;
 }
+/* 
+@media only screen and (min-width: 360px) {
+    .content{
+        background-color: rgb(149, 234, 234);
+    }
+} */
+
+
+
+
+
+
+
+

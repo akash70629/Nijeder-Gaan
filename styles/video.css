@@ -1,11 +1,13 @@
 .video{
     margin: 13px;
+    /* text-align: center; */
+  
 }
 
 
 iframe{
     width: 330px;
-    height: 200px;
+    height: 200px;  
 }
 
 *{
@@ -45,4 +47,11 @@ h4{
 
 .bottom h4 {
     color: aliceblue;
+}
+
+
+
+.video:nth-child(1) {
+    align-items: center;
+    align-content: center;
 }
