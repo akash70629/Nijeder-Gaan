@@ -1,41 +1,42 @@
-.content{
-    margin: 13px;  
+.content {
+    margin: 13px;
 }
 
-img{
+img {
     height: 280px;
-    width: 310px;  /* 320*/
+    width: 310px;
+    /* 320*/
     border-radius: 10px;
 
-/* new added */
+    /* new added */
     position: relative;
     right: -13px;
     top: 12px;
-    
+
 }
 
-h4{
+h4 {
     font-style: italic;
     color: rgb(128, 44, 207);
     font-weight: 500;
-    
+
 }
 
 
-.bottom{
-    position: absolute;
+.bottom {
+    /* position: absolute; */
     background-color: rgb(26, 36, 33);
     height: 100px;
     width: 100%;
-    bottom: -153px;    /* -250 */
+    /* bottom: -153px;    -250 */
     text-align: center;
-    
+
 }
 
-.bottom p{
-  margin-left: auto;
-  margin-right: auto;
-  color: aliceblue;
+.bottom p {
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
 }
 
 
@@ -43,21 +44,14 @@ h4{
     color: aliceblue;
 }
 
-.fa-youtube{
+.fa-youtube {
     color: red;
     padding: 5px;
 }
+
 /* 
 @media only screen and (min-width: 360px) {
     .content{
         background-color: rgb(149, 234, 234);
     }
 } */
-
-
-
-
-
-
-
-
