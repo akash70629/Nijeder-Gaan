@@ -36,9 +36,9 @@ h4{
 .bottom{
     /* position: absolute; */
     background-color: rgb(26, 36, 33);
-    height: 100px;
+    height: 106px;
     width: 100%;
-    /* bottom: -910px; */
+    /* bottom: 0px; */
     text-align: center;
     
 }
